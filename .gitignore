@@ -1,0 +1,8 @@
+# Ignore Bak Files
+*.bak
+*.tmp
+*.temp
+# Ignore Log Files
+*.log   
+# Ignore dll Files
+*.dll
