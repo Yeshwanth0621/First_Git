@@ -1,0 +1,12 @@
+# Ignore Backup Files
+*.bak
+*.temp
+*.tmp
+*.dll
+
+
+# Ignore Log Files
+*.log
+
+# Ignore Specific Folder
+E:/temp_folder/...
